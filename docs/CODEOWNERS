@@ -1,8 +1,4 @@
 # This is a comment.
-# Each line is a file pattern followed by one or more owners.
+# Below, @sheng0321 will be the default owner for everything in the repo.
+*       @sheng0321
 
-# These owners will be the default owners for everything in
-# the repo. Unless a later match takes precedence,
-# @global-owner1 and @global-owner2 will be requested for
-# review when someone opens a pull request.
-*       @global-Sheng0321
